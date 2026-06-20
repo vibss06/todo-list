@@ -122,12 +122,20 @@ h3{
     }
 
     input{
+<<<<<<< HEAD
         width: 90%;
+=======
+        width: 100%;
+>>>>>>> 1636ee5f571b85b3424ad6fdc6ad2b2a2c6ab055
         font-size: 16px;
     }
 
     .add{
+<<<<<<< HEAD
         width: 30%;
+=======
+        width: 100%;
+>>>>>>> 1636ee5f571b85b3424ad6fdc6ad2b2a2c6ab055
         height: 40px;
     }
 
@@ -160,4 +168,8 @@ h3{
         height: 35px;
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1636ee5f571b85b3424ad6fdc6ad2b2a2c6ab055
